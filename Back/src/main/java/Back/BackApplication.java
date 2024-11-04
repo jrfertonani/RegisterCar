@@ -10,6 +10,7 @@ public class BackApplication {
 		SpringApplication.run(BackApplication.class, args);
 	}
 
+
 }
 
 
